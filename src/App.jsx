@@ -34,7 +34,7 @@ function App() {
       <QueryClientProvider client={queryClient}>
         <ReactQueryDevtools
           initialIsOpen={false}
-          // toggleButtonProps={{ style: { display: "none" } }}
+           toggleButtonProps={{ style: { display: "none" } }}
         />
 
         <GlobalStyles />
