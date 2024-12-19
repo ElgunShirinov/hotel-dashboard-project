@@ -1,0 +1,2 @@
+export const supabaseUrlLink = "https://arlauzvdrvlhkbpuurku.supabase.co";
+export const supabaseSecretKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFybGF1enZkcnZsaGticHV1cmt1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzI3OTY4MTcsImV4cCI6MjA0ODM3MjgxN30.e3gH0bfKUofA3RqMQdUZcv-Gm5HnrG9DLK7MWPfCRiY";
